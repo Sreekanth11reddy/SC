@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRJpe3jxGlNng2bGk/kByf9FNgEMjNF7SycE7y8L6AjaaNfkmBuhbPxJYFzBKQusNi0RSDgw89/bYVoh9A6LjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z00430xm\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\z00430xm\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\z00430xm\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\z00430xm\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

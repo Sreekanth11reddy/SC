@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\CalcApp\\CalcApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\CalcApp\\CalcApp.csproj",
+        "projectName": "CalcApp",
+        "projectPath": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\CalcApp\\CalcApp.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\z00430xm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\z00430xm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\CalcApp\\CalcApp.csproj": {
+                "projectPath": "C:\\Users\\z00430xm\\source\\repos\\CalcApp\\CalcApp\\CalcApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

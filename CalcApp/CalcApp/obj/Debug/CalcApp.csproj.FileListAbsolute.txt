@@ -1,0 +1,7 @@
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.AssemblyReference.cache
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+C:\Users\z00430xm\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
