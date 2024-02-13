@@ -16,7 +16,7 @@ namespace TestProject1
         {
             ICalc cal = new Add();
            int result= cal.calculate(1, 2);
-            //Assert.Equals(result, 3);
+            Assert.Equals(result, 3);
             //Assert.AreEqual(result, 3);
         }
     }
